@@ -1,0 +1,6 @@
+*.py[cod]
+.idea/
+.venv/
+*.egg-info
+*.source.py
+.vscode/
